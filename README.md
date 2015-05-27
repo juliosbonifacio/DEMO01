@@ -1,2 +1,2 @@
-# DEMO01
-Pruebas y demos
+# REPOSITORIO DE DIVERSAS PRUEBAS
+Pruebas y demos diversos
